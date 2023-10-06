@@ -18,3 +18,4 @@ I love to spend my time reading books, listening songs, cooking and travelling.
 
 **Hobbies:**
 
+Art and craft
