@@ -4,7 +4,7 @@ Team member: Harnoopreet Kaur
 
 
 
-INTRODUCTION:
+**INTRODUCTION:**
 
 
 Hello, my name is Harnoorpreet Kaur and I am 20 years old.
