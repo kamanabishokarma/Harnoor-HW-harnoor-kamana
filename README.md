@@ -24,7 +24,7 @@ I love to spend my time reading books, listening songs, cooking and travelling.
 2.Painting
 <img scr="images/Painting.jpeg">
 
-3.
+3. Music
 <img scr="images/Music.jpeg">
 
 ## Team member: Kamana Bishowkarma
