@@ -55,5 +55,5 @@ I love to spend my time listening music and I love to spend my time alone.
 2.Photography 
 
 
-<img src="images\photography.jpeg>
+<img src="images\photography.jpeg">
 
