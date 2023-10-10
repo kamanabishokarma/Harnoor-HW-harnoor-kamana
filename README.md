@@ -41,9 +41,11 @@ I love to spend my time reading books, listening songs, cooking and travelling.
 **Introduction:**
 
 
-Hi, my name is Kamana Bishowkarma. I am a student in fanshawe college.
+Hi, my name is Kamana Bishowkarma.
+
 I am from Nepal.
-I love to spend my time listening music and I love to spend my time alone.
+
+I love to utilize my time listening music and I love to spend my time alone.
 
 **Hobbies**
 
